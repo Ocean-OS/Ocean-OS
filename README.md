@@ -6,6 +6,7 @@
 <li>FOSS enthusiast</li>
 <li>Linux & Windows user</li>
 <li>Cybersecurity enthusiast</li>
+<li>Pinetime (<a href="https://github.com/InfiniTimeOrg/InfiniTime">Infinitime</a>) user</li>
 </ul>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ocean-OS&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Ocean-OS" /><br>
 <!--
