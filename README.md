@@ -3,6 +3,7 @@
 <ul>
 <li>he/him</li>
 <li>Javascript programmer</li>
+<li>Fullstack developer (experience in web (vanilla and Svelte), and Node)</li>
 <li>FOSS enthusiast</li>
 <li>Linux & Windows user</li>
 <li>Cybersecurity enthusiast</li>
