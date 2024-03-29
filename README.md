@@ -6,6 +6,7 @@
 <li>Fullstack developer (experience in web (vanilla and Svelte), and Node)</li>
 <li>FOSS enthusiast</li>
 <li>Linux & Windows user</li>
+<li>Retro tech nerd</li>
 <li>Cybersecurity enthusiast</li>
 <li>Pinetime (<a href="https://github.com/InfiniTimeOrg/InfiniTime">Infinitime</a>) user</li>
 </ul>
