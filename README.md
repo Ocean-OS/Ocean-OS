@@ -7,6 +7,7 @@
 <li>FOSS enthusiast</li>
 <li>Linux & Windows user</li>
 <li>Retro tech nerd</li>
+<li>Music enjoyer</li>
 <li>Cybersecurity enthusiast</li>
 <li>Pinetime (<a href="https://github.com/InfiniTimeOrg/InfiniTime">Infinitime</a>) user</li>
 </ul>
