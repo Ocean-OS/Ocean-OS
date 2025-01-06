@@ -23,6 +23,8 @@
   <li>Electron-based applications</li>
   <li>Discord.js (Bots and RPC)</li>
   <li>Express-based servers</li>
+  <li>SolidJS</li>
+  <li>C and NASM Assembly</li>
 </ul>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ocean-OS&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Ocean-OS" />
   
