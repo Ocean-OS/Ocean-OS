@@ -2,13 +2,8 @@
 ### About me
 <ul>
 <li>he/him</li>
-<li>Javascript programmer</li>
-<li>Fullstack developer (experience in web (vanilla and Svelte), and Node)</li>
-<li>FOSS enthusiast</li>
+<li>JavaScript programmer</li>
 <li>Linux & Windows user</li>
-<li>Retro tech nerd</li>
-<li>Music enjoyer</li>
-<li>Cybersecurity enthusiast</li>
 <li>Pinetime (<a href="https://github.com/InfiniTimeOrg/InfiniTime">Infinitime</a>) user</li>
 </ul>
 
@@ -19,7 +14,7 @@
   <li>Bash & Batchfile</li>
   <li>Java</li>
   <li>Svelte</li>
-  <li>Typescript</li>
+  <li>TypeScript</li>
   <li>Electron-based applications</li>
   <li>Discord.js (Bots and RPC)</li>
   <li>Express-based servers</li>
