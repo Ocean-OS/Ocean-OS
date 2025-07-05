@@ -3,7 +3,7 @@
 <ul>
 <li>he/him</li>
 <li>JavaScript programmer</li>
-<li>[Svelte](https://github.com/sveltejs) maintainer</li>
+<li><a href="https://github.com/sveltejs">Svelte</a> maintainer</li>
 <li>Linux & Windows user</li>
 <li>Pinetime (<a href="https://github.com/InfiniTimeOrg/InfiniTime">Infinitime</a>) user</li>
 </ul>
